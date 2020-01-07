@@ -61,46 +61,47 @@ Our slides presentation is available in the <a href="https://github.com/faber691
 
 &#8860; &nbsp; **Alessandro Borroni** 
 
-- *Current Studies*: Data Science Msc Student @ Università degli Studi di Milano-Bicocca (UniMiB) ;
-- *Background*: Laurea triennale in Economia e Commercio presso l'Università degli Studi di Milano-Bicocca.
+- *Current Studies*: Data Science M.Sc. Student at Università degli Studi di Milano-Bicocca (UniMiB);
+- *Background*: Bachelor degree in Business Economics at Università degli Studi di Milano-Bicocca (UniMiB).
 <br>
 
 <p align = "center">
-  <a href = "https://www.linkedin.com/in/alessandro-borroni-212947186/"><img src="https://raw.githubusercontent.com/DBertazioli/Interact/master/img/iconfinder_Popular_Social_Media-22_2329259.png" width = "3%"></a>
-  <a href = "https://github.com/malborroni/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/GitHub.png" width = "3%"></a>
+  <a href = "https://www.linkedin.com/in/alessandro-borroni-212947186/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/Linkedin%20logo.png" width = "2.5%"></a>
+  <a href = "https://github.com/malborroni/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/GitHub.png" width = "2.5%"></a>
+  <a href = "https://gitlab.com/malborroni"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/Gitlab%20logo.png" width = "2.5%"></a>
 </p>
 
 &#8860; &nbsp; **Dario Bertazioli**
 
-- *Current Studies*: Data Science Msc Student @ Università degli Studi di Milano-Bicocca (UniMiB) ;
-- *Background*: Bachelor degree in Physics @ Università degli Studi di Milano.
+- *Current Studies*: Data Science M.Sc. Student at Università degli Studi di Milano-Bicocca (UniMiB);
+- *Background*: Bachelor degree in Physics at Università degli Studi di Milano.
 <br>
 
 <p align = "center">
-  <a href = "https://www.linkedin.com/in/dario-bertazioli-961ab4180/"><img src="https://raw.githubusercontent.com/DBertazioli/Interact/master/img/iconfinder_Popular_Social_Media-22_2329259.png" width = "3%"></a>
-  <a href = "https://github.com/DBertazioli/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/GitHub.png" width = "3%"></a>
-  <a href = "https://gitlab.com/DBertazioli/"><img src="https://gitlab.com/DBertazioli/enercibiddding/raw/master/img/gitlab-icon-rgb.png" width = "3%"></a>
+  <a href = "https://www.linkedin.com/in/dario-bertazioli-961ab4180/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/Linkedin%20logo.png" width = "2.3%"></a>
+  <a href = "https://github.com/DBertazioli/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/GitHub.png" width = "2.5%"></a>
+  <a href = "https://gitlab.com/DBertazioli/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/Gitlab%20logo.png" width = "2.5%"></a>
 </p>
 
 &#8860; &nbsp; **Fabrizio D'Intinosante**
 
-- *Current Studies*: Data Science Msc Student @ Università degli Studi di Milano-Bicocca (UniMiB) ;
-- *Background*: Laurea triennale in Economia e Statistica per le organizzazioni presso l'Università degli Studi di Torino.
+- *Current Studies*: Data Science M.Sc. Student at Università degli Studi di Milano-Bicocca (UniMiB) ;
+- *Background*: Bachelor degree in Economy and Statistic at Università degli Studi di Torino.
 <br>
 
 <p align = "center">
-  <a href = "https://www.linkedin.com/in/fabrizio-d-intinosante-125042180/"><img src="https://raw.githubusercontent.com/DBertazioli/Interact/master/img/iconfinder_Popular_Social_Media-22_2329259.png" width = "3%"></a>
-  <a href = "https://github.com/faber6911/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/GitHub.png" width = "3%"></a>
-  <a href = "https://gitlab.com/faber6911"><img src="https://gitlab.com/DBertazioli/enercibiddding/raw/master/img/gitlab-icon-rgb.png" width = "3%"></a>
+  <a href = "https://www.linkedin.com/in/fabrizio-d-intinosante-125042180/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/Linkedin%20logo.png" width = "2.3%"></a>
+  <a href = "https://github.com/faber6911/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/GitHub.png" width = "2.5%"></a>
+  <a href = "https://gitlab.com/faber6911"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/Gitlab%20logo.png" width = "2.5%"></a>
 </p>
 
 &#8860; &nbsp; **Massimiliano Perletti**
 
-- *Current Studies*: Data Science Msc Student @ Università degli Studi di Milano-Bicocca (UniMiB) ;
-- *Background*: Laurea triennale in Ingegneria dei materiali e delle nano-tecnologie presso il Politecnico di Milano.
+- *Current Studies*: Data Science M.Sc. Student at Università degli Studi di Milano-Bicocca (UniMiB);
+- *Background*: Bachelor degree in Ingegneria dei materiali e delle nano-tecnologie at Politecnico di Milano.
 <br>
 
 <p align = "center">
-  <a href = "https://www.linkedin.com/in/massimilianoperletti/"><img src="https://raw.githubusercontent.com/DBertazioli/Interact/master/img/iconfinder_Popular_Social_Media-22_2329259.png" width = "3%"></a>
-  <a href = "https://github.com/maxi93/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/GitHub.png" width = "3%"></a>
+  <a href = "https://www.linkedin.com/in/massimilianoperletti/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/Linkedin%20logo.png" width = "2.3%"></a>
+  <a href = "https://github.com/maxi93/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/GitHub.png" width = "2.5%"></a>
 </p>
